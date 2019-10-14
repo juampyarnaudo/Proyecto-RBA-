@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23858067962",
+    "firebase_url": "https://proyecto-rba-fire.firebaseio.com",
+    "project_id": "proyecto-rba-fire",
+    "storage_bucket": "proyecto-rba-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23858067962:android:1a5b166c2d01299eb28c43",
+        "android_client_info": {
+          "package_name": "com.example.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23858067962-bah93ldkl6d6ngvjibk18q5j2hgbilka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj580-bmS9IZ1JHnPj-hW7HShHkx1TpoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23858067962-bah93ldkl6d6ngvjibk18q5j2hgbilka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
